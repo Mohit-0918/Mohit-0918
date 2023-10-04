@@ -23,6 +23,7 @@
 🤝 &nbsp; I’m looking for help with [YouTube Clone](https://github.com/Mohit-0918/YouTube-clone)\
 👯 &nbsp; I'll start working on [Google The Legal](https://github.com/Mohit-0918/Google_the_Legal)\
 📄 &nbsp; You can check my [Resume](https://drive.google.com/file/d/1SIuwmauF0S2uDT3PHUW3gyikovq_2m1D/view?usp=sharing) for more details about my work experience.\
+💬 Ask me about **Java, react, node, OpenCV , TensorFlow and Algorithms**
 ⚡ &nbsp; Fun fact **Eat Sleep Code Repeat**
 
 
