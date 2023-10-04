@@ -14,13 +14,13 @@
 [![GitHub mohit-0918](https://img.shields.io/github/followers/mohit-0918?label=follow&style=social)](https://github.com/mohit-0918)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Hello everyone,I'm Final Year Grad in BTech CSE. Love to code  , exploring Data Science these days. I enjoy collaborating with people on works of similar interest. 
+💡 &nbsp; Hello everyone, I'm a Final Year Grad in BTech CSE. Love to code, and explore Data Science these days. I enjoy collaborating with people on works of similar interest. 
 
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.\
-✍️ &nbsp;Apart from technical interests, I like watching movies, reading novels, playing Cricket, Football, Chess and badminton.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
-✉️ &nbsp;You can email me at mohit-0918@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1SIuwmauF0S2uDT3PHUW3gyikovq_2m1D/view?usp=sharing) for more details about my work experience.
+🌱 &nbsp; I'm on track to learn more about Artificial Intelligence, Machine learning, and Data Science.\
+✍️ &nbsp; Apart from technical interests, I like watching movies, reading novels, playing Cricket, Football, Chess and badminton.\
+💬 &nbsp; Feel free to reach out to me for general consulting, or discussions \
+✉️ &nbsp; You can email me at mohit-0918@gmail.com. I'll try to respond as soon as possible!\
+📄 &nbsp; You can check my [Resume](https://drive.google.com/file/d/1SIuwmauF0S2uDT3PHUW3gyikovq_2m1D/view?usp=sharing) for more details about my work experience.
 
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 
@@ -102,21 +102,11 @@
  </div>
  
  
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mohit-0918&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mohit-0918&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mohit-0918&show_icons=true" />
-</picture>
+[![Mohit GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mohit-0918&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Mohit GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=mohit-0918&theme=xcode">
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mohitsharm0918"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohitsharm0918" /></a></p><br><br>
