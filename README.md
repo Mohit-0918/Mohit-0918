@@ -17,7 +17,7 @@
 💡 &nbsp; Hello everyone, I'm a Final Year Grad in BTech CSE. Love to code, and explore Data Science these days. I enjoy collaborating with people on works of similar interest. 
 
 🌱 &nbsp; I'm on track to learn more about Artificial Intelligence, Machine learning, and Data Science.\
-👨‍💻 &nbsp; I’m always learning **Data Structures and Algorithms**\
+👨🏻‍🏫 &nbsp; I’m always learning **Data Structures and Algorithms**\
 ✍️ &nbsp; Apart from technical interests, I like watching movies, reading novels, playing Cricket, Football, Chess and badminton.\
 💬 &nbsp; Feel free to reach out to me for general consulting, or discussions \
 🤝 &nbsp; I’m looking for help with [YouTube Clone](https://github.com/Mohit-0918/YouTube-clone)\
