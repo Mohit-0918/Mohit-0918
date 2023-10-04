@@ -42,7 +42,7 @@
 </div>
 <div  align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=https://github.com/Mohit-0918/AURA&show_icons=true&theme=great-gatsby" > 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=AURA&show_icons=true&theme=great-gatsby" > 
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=car-price-prediction&show_icons=true&theme=great-gatsby" >
 
