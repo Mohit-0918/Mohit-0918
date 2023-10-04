@@ -19,7 +19,6 @@
 🌱 &nbsp; I'm on track to learn more about Artificial Intelligence, Machine learning, and Data Science.\
 👨🏻‍🏫 &nbsp; I’m always learning **Data Structures and Algorithms**\
 ✍️ &nbsp; Apart from technical interests, I like watching movies, reading novels, playing Cricket, Football, Chess and badminton.\
-💬 &nbsp; Feel free to reach out to me for general consulting, or discussions \
 🤝 &nbsp; I’m looking for help with [YouTube Clone](https://github.com/Mohit-0918/YouTube-clone)\
 👯 &nbsp; I'll start working on [Google The Legal](https://github.com/Mohit-0918/Google_the_Legal)\
 📄 &nbsp; You can check my [Resume](https://drive.google.com/file/d/1SIuwmauF0S2uDT3PHUW3gyikovq_2m1D/view?usp=sharing) for more details about my work experience.\
