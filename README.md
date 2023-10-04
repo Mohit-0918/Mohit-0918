@@ -10,7 +10,7 @@
 
 -----
 
-![profile count](https://komarev.com/ghpvc/?username=mohit-0918&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=mohit-0918&color=blue)&nbsp;
 [![GitHub mohit-0918](https://img.shields.io/github/followers/mohit-0918?label=follow&style=social)](https://github.com/mohit-0918)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
