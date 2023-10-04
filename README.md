@@ -97,7 +97,7 @@
 
 <div align="center">
   
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=mohit-0918&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohit-0918&theme=onedark&hide_border=true" alt="GitHub Streak" /></a>
 
  </div>
  
