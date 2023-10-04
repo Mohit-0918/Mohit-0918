@@ -46,8 +46,8 @@
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=AURA&show_icons=true&theme=onedark" > 
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=YouTube-clone&show_icons=true&theme=onedark" >
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=RESTful&show_icons=true&theme=onedark" >
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=Library_Management_Software&show_icons=true&theme=onedark&card_width=400"> 
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=Google_the_Legal&show_icons=true&theme=onedark"> 
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=Library_Management_Software&show_icons=true&theme=onedark&card_width=500"> 
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=Google_the_Legal&show_icons=true&theme=onedark&card_width=500"> 
  
   
 </div>
