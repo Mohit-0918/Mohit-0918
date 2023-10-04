@@ -76,6 +76,7 @@
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
 
 
 -----
