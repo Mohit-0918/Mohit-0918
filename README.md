@@ -46,8 +46,8 @@
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=AURA&show_icons=true&theme=onedark" > 
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=YouTube-clone&show_icons=true&theme=onedark" >
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=RESTful&show_icons=true&theme=onedark" >
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=Library_Management_Software&show_icons=true&theme=onedark&card_width=500"> 
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=Google_the_Legal&show_icons=true&theme=onedark&card_length=500"> 
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=Library_Management_Software&show_icons=true&theme=onedark"> 
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=Google_the_Legal&show_icons=true&theme=onedark"> 
  
   
 </div>
@@ -70,7 +70,6 @@
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
