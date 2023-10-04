@@ -44,21 +44,19 @@
  
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=AURA&show_icons=true&theme=onedark" > 
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=car-price-prediction&show_icons=true&theme=great-gatsby" >
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=YouTube-clone&show_icons=true&theme=great-gatsby" >
 
 
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=weather-app&show_icons=true&theme=great-gatsby" >
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=RESTful&show_icons=true&theme=great-gatsby" >
 
 
 
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=To-Do-List&show_icons=true&theme=great-gatsby"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=Library_Management_Software&show_icons=true&theme=great-gatsby"> 
   
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=MemeGenerator&show_icons=true&theme=great-gatsby"> 
-  
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=Fidget-spinner&show_icons=true&theme=great-gatsby">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=Google_the_Legal&show_icons=true&theme=great-gatsby"> 
+ 
   
 </div>
 
@@ -97,12 +95,12 @@
 
 <div align="center">
   
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohit-0918&theme=onedark&hide_border=true" alt="GitHub Streak" /></a>
+![Mohit GitHub stats](https://github-readme-stats.vercel.app/api?username=mohit-0918&show_icons=true&theme=transparent)
 
  </div>
  
  
-![Mohit GitHub stats](https://github-readme-stats.vercel.app/api?username=mohit-0918&show_icons=true&theme=transparent)
+
 
 
 <br>
