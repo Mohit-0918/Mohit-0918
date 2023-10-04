@@ -97,12 +97,12 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohit-0918&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohit-0918&theme=onedark&hide_border=true" alt="GitHub Streak" /></a>
 
  </div>
  
  
-[![Mohit GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mohit-0918&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Mohit GitHub stats](https://github-readme-stats.vercel.app/api?username=mohit-0918&show_icons=true&theme=transparent)
 
 
 <br>
