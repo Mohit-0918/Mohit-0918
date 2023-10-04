@@ -29,8 +29,8 @@
 
 
 
-<a href="www.linkedin.com/in/mohit-sharma0918"><img alt="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/></a> &nbsp;
 <a href="https://www.instagram.com/mohit.sharma.918._//"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"/></a> &nbsp;
+<a href="www.linkedin.com/in/mohit-sharma0918"><img alt="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/></a> &nbsp;
 <a href="mailto:mohit.sharma.2001rip@gmail.com"><img alt="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" /></a> &nbsp;
 </a> &nbsp;
 
