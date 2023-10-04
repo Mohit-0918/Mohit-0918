@@ -102,8 +102,19 @@
  </div>
  
  
-<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohit-0918&&show_icons=true&theme=dark" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-0918&layout=compact&theme=dark" width="46%" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mohit-0918&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mohit-0918&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohit-0918&show_icons=true" />
+</picture>
+
+
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=mohit-0918&theme=xcode">
 
