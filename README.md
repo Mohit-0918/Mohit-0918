@@ -46,8 +46,8 @@
 </div>
 <div  align="center">
 
- 
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=AURA&show_icons=true&theme=onedark" > 
+ <a href="https://github.com/Mohit-0918/AURA">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=AURA&show_icons=true&theme=onedark" ></a>
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=YouTube-clone&show_icons=true&theme=onedark" >
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=RESTful&show_icons=true&theme=onedark" >
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohit-0918&repo=Library_Management_Software&show_icons=true&theme=onedark&height=500"> 
