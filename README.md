@@ -99,7 +99,7 @@
 
 <div align="center">
   
-![Mohit GitHub stats](https://github-readme-stats.vercel.app/api?username=mohit-0918&show_icons=true&theme=transparent)
+![Mohit GitHub stats](https://github-readme-stats.vercel.app/api?username=mohit-0918&show_icons=true&theme=holi)
 
 </div>
  
