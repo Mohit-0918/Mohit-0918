@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Sharma</h1>
-<h3 align="center">Computer Science Graduate | Aspiring Software Development Engineer</h3>
+<h3 align="center">Software Development Engineer</h3>
 
 <hr style="border-color: grey; border-width: 2px;">
 
